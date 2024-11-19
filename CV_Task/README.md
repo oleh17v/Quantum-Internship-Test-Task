@@ -23,7 +23,7 @@ For the image comparison algorithm, the **SIFT (Scale-Invariant Feature Transfor
 
 After applying these machine learning methods, one of the following matches was obtained:
 
-![Image Match Example](https://github.com/oleh17v/Quantum-Internship-Test-Task/blob/main/CV_Task/res_001.png)
+![Image Match](https://github.com/oleh17v/Quantum-Internship-Test-Task/blob/main/CV_Task/res_001.png)
 
 ## Environment Setup
 
