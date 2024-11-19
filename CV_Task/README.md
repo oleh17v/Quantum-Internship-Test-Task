@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ```
 ### 2. Using Google Colab
 
-If you are using **Google Colab**, you don't need to worry about the environment setup or installing the kernel. Just open the notebook and connect to the Colab runtime.
+If you are using **Google Colab**, you don't need to worry about the environment setup or installing the kernel. Just open the notebook and connect to the Colab runtime. But don't forget to have image_matching_algorithm.py script in your directory.
 
 ### 3. Install Jupyter Kernel (for Local Development)
 ```bash
